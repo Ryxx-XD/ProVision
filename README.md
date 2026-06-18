@@ -24,6 +24,10 @@
 
 ---
 
+Authors:
+**Lead/Software Developer : **Edgar Joerenz B. Pondales - Robotics Engineering
+**Co/Hardware Developer : **Ali R. Goyena - Computer Science
+
 ## Overview
 
 **ProVision OS** is a production-grade, AI-powered patient monitoring desktop application built for clinical environments. It continuously streams live video from ESP32-CAM nodes over a hospital wireless network, runs real-time computer vision inference for fall detection and seizure monitoring, and surfaces actionable telemetry to clinical staff through a premium dark-mode PyQt6 interface.
