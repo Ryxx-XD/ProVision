@@ -25,6 +25,7 @@
 ---
 
 Authors:
+
 **Lead/Software Developer :** Edgar Joerenz B. Pondales - Robotics Engineering
 
 **Co/Hardware Developer :** Ali R. Goyena - Computer Science
