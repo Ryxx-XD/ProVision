@@ -2,7 +2,7 @@
 
 
 
-**ProVision : AI-Powered Clinical Patient Monitoring System**
+# ProVision : AI-Powered Clinical Patient Monitoring System
 
 `v2.0` · Python 3.10+ · PyQt6 · YOLOv8 · MediaPipe · Flask
 
