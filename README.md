@@ -17,7 +17,7 @@
 
 ---
 
-Authors:
+# Authors:
 
 **Lead/Software Developer :** Edgar Joerenz B. Pondales - Robotics Engineering
 
