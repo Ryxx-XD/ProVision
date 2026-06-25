@@ -4,7 +4,7 @@
 
 # ProVision : AI-Powered Clinical Patient Monitoring System
 
-`v2.0` · Python 3.10+ · PyQt6 · YOLOv8 · MediaPipe · Flask
+`v2.0` · Python 3.11+ · PyQt6 · YOLOv8 · MediaPipe · Flask
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square)](https://python.org)
 [![PyQt6](https://img.shields.io/badge/UI-PyQt6-41cd52?style=flat-square)](https://pypi.org/project/PyQt6/)
